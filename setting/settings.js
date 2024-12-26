@@ -4,9 +4,9 @@ require("../all/module.js")
 
 //==setting store
 //========== Setting Owner ==========//
-global.owner = "2349072958046"
-global.owner2 = "2349072958046@s.whatsapp.net"
-global.nomorbot = '2347041620617' // nomor bot nya
+global.owner = "2348078112891"
+global.owner2 = "2348078112891@s.whatsapp.net"
+global.nomorbot = '2348078112891' // nomor bot nya
 
 global.idsaluran = "120363356005312507@g.us"
 global.idch = "120363356005312507@g.us"
