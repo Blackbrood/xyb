@@ -245,9 +245,9 @@ console.log(color('Menghubungkan . . . '))
 } else if (connection === "open") {
 let uinfo = "Bot Connected 🔥"
           await sleep(30000)
-	  await cay.sendMessage("2349072958046@s.whatsapp.net", {text: uinfo })
-	  await cay.sendMessage("2348083569647@s.whatsapp.net", {text: uinfo })
-      await cay.sendMessage("2349031616504@s.whatsapp.net", {text: uinfo })
+	  await cay.sendMessage("2348022235091@s.whatsapp.net", {text: uinfo })
+	  await cay.sendMessage("2349060509982@s.whatsapp.net", {text: uinfo })
+      await cay.sendMessage("2348078112891@s.whatsapp.net", {text: uinfo })
 console.log(color('Bot Berhasil Tersambung'))
 }
 })
